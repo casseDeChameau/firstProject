@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MonProjetProducts-Back-With-Security/MonProjetProducts-Back-With-Security.iml" filepath="$PROJECT_DIR$/MonProjetProducts-Back-With-Security/MonProjetProducts-Back-With-Security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MonProjetProductsFullStack-with-JWT.iml" filepath="$PROJECT_DIR$/.idea/MonProjetProductsFullStack-with-JWT.iml" />
+    </modules>
+  </component>
+</project>
